@@ -1,0 +1,1 @@
+SELECT * FROM taekwondo.scores

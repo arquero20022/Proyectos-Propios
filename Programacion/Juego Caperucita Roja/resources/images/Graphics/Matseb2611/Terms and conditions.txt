@@ -1,0 +1,45 @@
+Terms, conditions, and details
+
+
+Credit: Matseb2611 or Matthew Ashworth (either way is fine)
+Additional Credit: Enterbrain (for busts, sprites, and tiles)
+
+
+Terms: Both commercial and non-commercial
+
+
+Contact details:
+
+   - Matseb2611 on the forums
+   - Email matthewseb2611@yahoo.co.uk
+
+
+Content details:
+
+   - Alien sprites (humanoid, reptilian, insectoid, etc; some have recoloured versions)
+   - Humanoid Alien bust with several alts
+   - Glowing decorations (use with stepping animation ON; these can be used in temples, sci-fi bases, etc)
+   - Ancient Greek decorations (vases, armaments, etc)
+   - Athena and Hades sprites and busts
+   - Roman soldiers sprites (3 foot soldiers, 1 horseback rider, 1 banner carrier)
+   - 2 Battle Animations (mystic symbols and fireballs)
+   - 7 Battle Transitions (both 544x416 and 640x480 resolutions included)
+
+
+Notes:
+
+If you're unsure on how to use any of the above, feel free to send me a message and 
+I'll be happy to help.
+
+To use the battle transitions, simply copy one of them, paste into your project's folder,
+and finally rename it to 'BattleStart'.
+
+Parasitic Alien sprite acts as a stationary decoration, rather than a mobile character,
+so each row is different.
+
+Ancient Greek decorations act as one of the B-E tilesheets.
+
+
+For more stuff, please see my resource thread:
+http://forums.rpgmakerweb.com/index.php?/topic/28754-matsebs-resources-free-for-commercial-use-tiles-sprites-animated-battlers-and-more/
+

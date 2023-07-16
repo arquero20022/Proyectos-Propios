@@ -1,0 +1,27 @@
++++ Candacis' Farm Tiles +++
+
+Terms of Use:
+Free to use for non-commercial games so long as you give credits. Message me, if you want to use them for a commercial game (it is still free, but I want to be informed). Feel free to edit my stuff, but don't repost my originals without my permission.
+
+Contact Info: 
+Just send me a PN in the official forum: http://forums.rpgmakerweb.com/index.php?/user/1509-candacis/
+
+Details:
+
+This time I have made some farm tiles and animal edits. The animal boxes inside the barn might be hard to set up right since you want the animals behind the walls but the player sprite in front of it. Set the tiles in question to star passability and then use NeonBlack's Large Sprite Display Fix Script.
+
+http://forums.rpgmakerweb.com/index.php?/topic/22243-large-sprite-%E2%98%86-display-fix/
+
+Don't forget to set the tiles in question to terrain tag 7 for the script! You can do this in the tileset menu. To hinder the player to walk into the boxes, you also have to work a lot with the 4-way passability settings, especially for the tiles under or over the star/terrain tag 7 tiles.
+I hope that was not too confusing. If you need help, please use my resource thread for questions. And if you haven't already, I would be happy, if you'd give my resource thread a like!
+
+
+Credits go to Candacis, Pineda (for the Goose Base Sprite) and Enterbrain!
+
+Notes:
+
+If someone has questions, I'm happy to help out. Just message me.
+I highly appreciate feedback, so let me know what you think, if something is wrong or could be done better.
+
+And please check out my resource thread: http://forums.rpgmakerweb.com/index.php?/topic/19694-candacis-resources/
+

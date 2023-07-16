@@ -1,0 +1,18 @@
+~~~~~slimmmeiske2's Resources~~~~~
+
+Terms of Use: 
+The resources included can be used in both commercial and non-commercial games, as long as the user owns RMVX(Ace). 
+
+Contact Info: 
+In case you wish to contact me, you can send me a PM on the official forum: http://forums.rpgmakerweb.com/index.php?/user/4269-slimmmeiske2/
+If you don't have an account on the forum, feel free to e-mail me: annelies_michiels981@hotmail.com
+
+Details: 
+Four fairytale themed sprites: Adult and child Little Red Riding Hood, Cheshire cat and the Queen of Hearts.
+(Adult) Little Red Riding Hood sprite goes together with Archeia's portrait from Restaff February 2014. 
+The sprites are edited from the VX(Ace) RTP.
+
+Notes: 
+To be able to use the sprites in VX(Ace), please do not remove the $ from the file name.
+Thank you Archeia for providing an amazing portrait :)
+I have previously made an Alice sprite as well as a Dinah sprite. You can find it in Restaff March-June 2014 or in my thread: http://forums.rpgmakerweb.com/index.php?/topic/25123-slims-vxa-sprites-and-icons/
